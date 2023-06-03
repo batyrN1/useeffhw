@@ -1,0 +1,19 @@
+.logo{
+    width: 100%;
+    max-width: 90px;
+    height: 80px;
+}
+.header-menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
